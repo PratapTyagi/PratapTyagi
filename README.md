@@ -8,11 +8,6 @@ You have finally discovered my Github Profile. Please feel free to clone/fork pr
 
 <br/>
 <br/>
-<br />
-<br />
-<br />
-
-
 
 ## Connect with me:
 [<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/email.png" />][email]
