@@ -1,4 +1,4 @@
-## Hello there, I am Pratap Tyagi
+## `Hello there, I am Pratap Tyagi`
 ![Total Views](https://views.whatilearened.today/views/github/sharmas1ddharth/sharmas1ddharth.svg)
 ![GitHub followers](https://img.shields.io/github/followers/sharmas1ddharth?style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/sharmas1ddharth?style=for-the-badge)
@@ -17,9 +17,6 @@ You have finally discovered my Github Profile. Please feel free to clone/fork pr
 ## Connect with me:
 [<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/email.png" />][email]
 [<img align="left" alt="Siddharth | linkedin" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/linkedin.svg" />][linkedin]
-[<img align="left" alt="Siddharth | twitter" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/twitter.svg" />][twitter]
-[<img align="left" alt="Siddharth | instagram" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/instagram.svg" />][instagram]
-[<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/facebook.svg" />][facebook]
 
 <br />
 <br />
@@ -44,11 +41,8 @@ You have finally discovered my Github Profile. Please feel free to clone/fork pr
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=sharmas1ddharth&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmas1ddharth&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=PratapTyagi&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratapTyagi&layout=compact" />
 
-[email]: ssiddharth408@gmail.com
-[twitter]: https://twitter.com/Siddhar32687284
-[instagram]: https://instagram.com/Mr.dead__pool___
+[email]: tyagipratap111@gmail.com
 [linkedin]: https://www.linkedin.com/in/siddharth-sharma-329bb1106/
-[facebook]: https://www.facebook.com/profile.php?id=100013803645228
