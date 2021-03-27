@@ -1,4 +1,4 @@
-## `Hello there, I am Pratap Tyagi`
+## Hello there, I am Pratap Tyagi
 ![Total Views](https://views.whatilearened.today/views/github/sharmas1ddharth/sharmas1ddharth.svg)
 ![GitHub followers](https://img.shields.io/github/followers/sharmas1ddharth?style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/sharmas1ddharth?style=for-the-badge)
