@@ -10,8 +10,8 @@ You have finally discovered my Github Profile. Please feel free to clone/fork pr
 <br/>
 
 ## Connect with me:
-[<img align="left" alt="Pratap | email" width="22px" src="https://github.com/PratapTyagi/PratapTyagi/blob/master/icons/social-media/email.png" />][email]
-[<img align="left" alt="Pratap | linkedin" width="22px" src="https://github.com/PratapTyagi/PratapTyagi/blob/master/icons/social-media/linkedin.svg" />][linkedin]
+[<img align="left" alt="Pratap | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/email.png" />][email]
+[<img align="left" alt="Pratap | linkedin" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/linkedin.svg" />][linkedin]
 
 <br />
 <br />
@@ -24,8 +24,6 @@ You have finally discovered my Github Profile. Please feel free to clone/fork pr
 <img align="left" alt="SQL" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/docker.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/github.svg" />
-<img align="left" alt="Python" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/python.svg" />
-<img align="left" alt="Python" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/django.svg" />
 <br />
 <br />
 
