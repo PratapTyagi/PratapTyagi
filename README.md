@@ -1,7 +1,7 @@
 ## Hello there, I am Pratap Tyagi
-![Total Views](https://views.whatilearened.today/views/github/sharmas1ddharth/sharmas1ddharth.svg)
-![GitHub followers](https://img.shields.io/github/followers/sharmas1ddharth?style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/sharmas1ddharth?style=for-the-badge)
+![Total Views](https://views.whatilearened.today/views/github/PratapTyagi/PratapTyagi.svg)
+![GitHub followers](https://img.shields.io/github/followers/PratapTyagi?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/PratapTyagi?style=for-the-badge)
 <br />
 
 You have finally discovered my Github Profile. Please feel free to clone/fork projects, raise issues and submit if you think something could be better.
@@ -10,8 +10,8 @@ You have finally discovered my Github Profile. Please feel free to clone/fork pr
 <br/>
 
 ## Connect with me:
-[<img align="left" alt="Siddharth | email" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/email.png" />][email]
-[<img align="left" alt="Siddharth | linkedin" width="22px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/social-media/linkedin.svg" />][linkedin]
+[<img align="left" alt="Pratap | email" width="22px" src="https://github.com/PratapTyagi/PratapTyagi/blob/master/icons/social-media/email.png" />][email]
+[<img align="left" alt="Pratap | linkedin" width="22px" src="https://github.com/PratapTyagi/PratapTyagi/blob/master/icons/social-media/linkedin.svg" />][linkedin]
 
 <br />
 <br />
@@ -30,14 +30,5 @@ You have finally discovered my Github Profile. Please feel free to clone/fork pr
 <br />
 
 
-
-
-
-<!-- BLOG-POST-LIST:END -->
-
----
-<img src="https://github-readme-stats.vercel.app/api?username=PratapTyagi&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratapTyagi&layout=compact" />
-
 [email]: tyagipratap111@gmail.com
-[linkedin]: https://www.linkedin.com/in/siddharth-sharma-329bb1106/
+[linkedin]: https://www.linkedin.com/in/pratap-tyagi-48a387186
