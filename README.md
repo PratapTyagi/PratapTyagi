@@ -20,7 +20,6 @@ Please feel free to clone/fork projects, raise issues and submit if you think so
 <img align="left" alt="HTML5" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/html.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/css.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/javascript.svg" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/docker.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/S1ddharth-Sharma/S1ddharth-Sharma/blob/master/icons/tools/github.svg" />
 <br />
