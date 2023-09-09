@@ -11,6 +11,15 @@
 </div>
 
 <br />
+<br />
+
+<div align="center">
+  <h2>My current company <strong>Github account</strong></h2>
+  <a href="https://github.com/Pratap-Tyagi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+<br />
+<br />
 
 <div align="center">
   <h4>
